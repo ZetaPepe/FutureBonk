@@ -355,7 +355,7 @@ export default function Home() {
                 <ul className="space-y-2 text-sm text-gray-400">
                   <li className="flex items-center gap-2">
                     <Mail className="h-4 w-4" />
-                    <span>ameyaudeshmukh@gmail.com</span>
+                    <span>FutureBonk@gmail.com</span>
                   </li>
                 </ul>
               </div>
