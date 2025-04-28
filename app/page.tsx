@@ -100,7 +100,7 @@ export default function Home() {
                 </FadeIn>
                 <FadeIn delay={0.3}>
                   <p className="text-gray-400 text-lg md:text-xl">
-                    Deep insights into AI, GenAI, Computer Vision, and Deep Learning advancements.
+                    $FONK CA：9EaqJpi3ybLf1RGCFUM9DS8WMUC6G85TQmuP7eGfbonk
                   </p>
                 </FadeIn>
                 <FadeIn delay={0.5}>
