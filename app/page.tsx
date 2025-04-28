@@ -288,6 +288,15 @@ export default function Home() {
                   >
                     <Twitter className="h-5 w-5" />
                   </Link>
+                  
+                  <Link
+                    href="https://x.com/riyazmd774"  // 这里换成你要跳转的第二个 Twitter 账号
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-gray-400 hover:text-white"
+                  >
+                    <Twitter className="h-5 w-5" />
+                  </Link>
                 </div>
               </div>
               <div>
