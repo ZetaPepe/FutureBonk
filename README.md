@@ -109,7 +109,7 @@ yarn start
  ```
 
 ## 🌟 Contributors
-<a href="https://github.com/chanchimin"><img src="https://avatars.githubusercontent.com/u/75533759?v=4" alt="Contributor" style="width:10%; border-radius: 100%;"/></a>
+<a href="https://github.com/chanchimin"><img src="https://avatars.githubusercontent.com/u/75533759?v=4" alt="Contributor" style="width:10%; border-radius: 10%;"/></a>
 <a href="https://github.com/libowen2121"><img src="https://avatars.githubusercontent.com/u/19970308?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
 <a href="https://github.com/Xial-kotori"><img src="https://avatars.githubusercontent.com/u/53430452?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
 <a href="https://github.com/Dr-Left"><img src="https://avatars.githubusercontent.com/u/39025643?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
