@@ -85,9 +85,25 @@ cd selfyai
 yarn install
  ```
 
+## 🔧 Environment Variables
+
+Create a .env.local file in the root directory with the following:
+
+```bash
+OPENAI_API_KEY=your_openai_key
+ANTHROPIC_API_KEY=your_claude_key
+GEMINI_API_KEY=your_google_ai_key
+NEXT_PUBLIC_BASE_URL=http://localhost:3000
+ ```
 ## 🧪 Build & Deployment
 
 To build the project for production:
 
 ```bash
 yarn build
+ ```
+
+To start in production mode:
+```bash
+yarn start
+ ```
