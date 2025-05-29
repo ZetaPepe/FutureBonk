@@ -1,26 +1,85 @@
-# FutureBonk - AI Blog
+# 🧠 SelfyAI – Your AI. Your Asset. Your Future.
 
-FutureBonk is a modern, responsive blog focused on AI, GenAI, Computer Vision, and Deep Learning topics. This project is built with Next.js and designed to be deployed on GitHub Pages.
+> 🌐 From RWA to VWA: The Next Evolution of Ownership
 
-## Features
+SelfyAI empowers individuals to create, own, and monetize intelligent AI Agents—unique, evolving digital assets called **Selfies**. In the AI-native economy, these Virtual World Assets (VWA) represent the future of digital identity and value.
 
-- Responsive design with a dark, aesthetic theme
-- Featured articles section
-- Recent posts grid
-- Newsletter subscription form
-- Topic categorization
-- Detailed blog post pages
+---
 
-## Getting Started
+## 🎯 Mission
 
-### Prerequisites
+To pioneer a decentralized ecosystem where individuals can craft **personalized AI Agents** that grow in utility, evolve in intelligence, and accrue real economic value—ushering in a new asset class: **Virtual World Assets (VWA).**
 
-- Node.js 18 or later
-- npm or yarn
+---
 
-### Installation
+## 🧬 What is a Selfy?
 
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/yourusername/future-bonk.git
-   cd future-bonk
+A **Selfy** is your personal AI Agent—customizable, ownable, and fully autonomous.
+
+It can:
+- 📝 Write
+- 🗣️ Speak
+- 🤖 Assist
+- 🎭 Entertain
+- 💱 Trade
+- 🎨 Create
+- 📚 Learn
+- 🔄 Evolve
+
+And like any real asset—it can be **bought**, **sold**, or **licensed**.
+
+---
+
+## ⚙️ Platform Features
+
+### 🛠️ Agent Builder
+No-code interface to design your Selfy's goals, personality, and appearance.
+
+### 🔄 AI Marketplace
+Trade or license agents on a decentralized exchange.
+
+### 📈 Growth Engine
+Agents improve through use—adding value and intelligence.
+
+### 🔗 On-Chain Provenance
+Each agent is a cryptographically verifiable, tokenized asset.
+
+---
+
+## 💡 Why VWA > RWA?
+
+- **Scalable**: No physical limits.
+- **Composable**: Clone, upgrade, or combine agents.
+- **Liquid**: Buy/sell/trade in digital markets.
+- **Future-Proof**: AI-native assets grow more valuable over time.
+
+---
+
+## 🌍 Our Vision
+
+We envision a future where everyone owns intelligent digital property—AI agents that work for them, grow with them, and generate value alongside them.
+
+> **SelfyAI is your gateway.**  
+> **Build it. Train it. Evolve it.**  
+> **Turn intelligence into income.**
+
+---
+
+## 🧩 Tech Stack
+
+- **Framework**: Next.js (React + TypeScript)
+- **AI APIs**:
+  - OpenAI
+  - Claude (Anthropic)
+  - Gemini (Google AI)
+- **Blockchain**: EVM-compatible smart contracts
+- **Storage**: IPFS / Arweave
+
+---
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/yourusername/selfyai.git
+cd selfyai
+yarn install
