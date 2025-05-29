@@ -108,21 +108,16 @@ To start in production mode:
 yarn start
  ```
 
-## 🌟 Contributors
-<a href="https://github.com/chanchimin"><img src="https://avatars.githubusercontent.com/u/75533759?v=4" alt="Contributor" style="width:10%; border-radius: 10%;"/></a>
-<a href="https://github.com/libowen2121"><img src="https://avatars.githubusercontent.com/u/19970308?v=4" alt="Contributor" style="width:10%; border-radius: 100%;"/></a>
-<a href="https://github.com/Xial-kotori"><img src="https://avatars.githubusercontent.com/u/53430452?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/Dr-Left"><img src="https://avatars.githubusercontent.com/u/39025643?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/minleminzui"><img src="https://avatars.githubusercontent.com/u/54172054?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/Tsuruko04"><img src="https://avatars.githubusercontent.com/u/129145574?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/kierangilliam"><img src="https://avatars.githubusercontent.com/u/18583882?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/zhouxh19"><img src="https://avatars.githubusercontent.com/u/17394639?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/tzw2698"><img src="https://avatars.githubusercontent.com/u/68865752?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/JetSquirrel"><img src="https://avatars.githubusercontent.com/u/20291255?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/Muiruriscode"><img src="https://avatars.githubusercontent.com/u/85177347?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-<a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4" alt="Contributor" style="width:10%; border-radius: 50%;"/></a>
-
-### ✨ Contributors
-
-<a href="https://github.com/libowen2121"><img src="https://avatars.githubusercontent.com/u/19970308?v=4" width="60px" alt="User"/><br /><sub>@yourusername</sub></a>
+## ✨ Contributors
+<a href="https://github.com/transitive-bullshit"><img src="https://avatars.githubusercontent.com/u/552829?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/HenryHengZJ"><img src="https://avatars.githubusercontent.com/u/26460777?v=4" alt="Contributor" style="width:8%; border-radius: 100%;"/></a>
+<a href="https://github.com/feder-cr"><img src="https://avatars.githubusercontent.com/u/85809106?v=4" alt="Contributor" style="width:8%; border-radius: 10%;"/></a>
+<a href="https://github.com/Dr-Left"><img src="https://avatars.githubusercontent.com/u/39025643?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/frdel"><img src="https://avatars.githubusercontent.com/u/38891707?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/suhasdeshpande"><img src="https://avatars.githubusercontent.com/u/606167?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/ValentaTomas"><img src="https://avatars.githubusercontent.com/u/49156497?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/NirDiamant"><img src="https://avatars.githubusercontent.com/u/28316913?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="hhttps://github.com/tonykipkemboi"><img src="https://avatars.githubusercontent.com/u/64493665?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/mayooear"><img src="https://avatars.githubusercontent.com/u/107035552?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
+<a href="https://github.com/Fosowl"><img src="https://avatars.githubusercontent.com/u/49105846?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
 
