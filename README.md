@@ -83,6 +83,7 @@ We envision a future where everyone owns intelligent digital property—AI agent
 git clone https://github.com/yourusername/selfyai.git
 cd selfyai
 yarn install
+ ```
 
 ## 🧪 Build & Deployment
 
