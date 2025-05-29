@@ -84,6 +84,9 @@ git clone https://github.com/yourusername/selfyai.git
 cd selfyai
 yarn install
 
----
+## 🧪 Build & Deployment
 
-## 🧩 Tech Stack
+To build the project for production:
+
+```bash
+yarn build
