@@ -86,22 +86,4 @@ yarn install
 
 ---
 
-## 🧷 Environment Variables
-
-```bash
-OPENAI_API_KEY=your_openai_key
-ANTHROPIC_API_KEY=your_claude_key
-GEMINI_API_KEY=your_google_ai_key
-NEXT_PUBLIC_BASE_URL=http://localhost:3000
-
----
-
-## 🧪 Build & Deployment
-To build for production:
-
-```bash
-yarn build
-
-To start in production mode:
-```bash
-yarn start
+## 🧩 Tech Stack
